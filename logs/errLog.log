@@ -1,0 +1,6 @@
+20230130	23:04:34	5a1acc10-1361-44b3-8451-9eaf196af25d	Error: Not allowd by CORS	undefined	undefined	UNDEFINED
+20230130	23:04:34	74ff1d6f-95c4-4592-b76b-eb88bd3d3f47	Error: Not allowd by CORS	undefined	undefined	UNDEFINED
+20230130	23:06:04	5bd1aa88-fd66-40dd-aead-a0390d30a574	Error: Not allowd by CORS	OPTIONS	/	https://blocked.freedom.to
+20230130	23:06:04	5379a4f6-1734-4459-9fa4-6a7376eb0785	Error: Not allowd by CORS	GET	/	https://blocked.freedom.to
+20230130	23:06:30	1786f730-d97c-476b-bbee-50f583a152c4	Error: Not allowd by CORS	OPTIONS	/	https://blocked.freedom.to
+20230130	23:06:30	f6e97d1e-9614-4789-959b-3510c57ef037	Error: Not allowd by CORS	GET	/	https://blocked.freedom.to
